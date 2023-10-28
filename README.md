@@ -1,2 +1,2 @@
 # developers
-coding for 
+coding for new developers
